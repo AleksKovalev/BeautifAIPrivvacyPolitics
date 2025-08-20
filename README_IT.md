@@ -20,7 +20,7 @@ Per fornire servizi di analisi della pelle, la nostra app utilizza foto del tuo 
 * Non creiamo modelli biometrici: non creiamo o memorizziamo modelli digitali o stampe del tuo viso a scopo di identificazione.
 
 7.4. Trasferimento dei dati a terzi
-* Per l'analisi: per l'elaborazione di foto e la generazione di report, le immagini vengono temporaneamente trasferite ai server sicuri del nostro fornitore di servizi (Google Gemini). Il processo di analisi è completamente automatizzato e, una volta completato, le foto vengono immediatamente rimosse dai nostri server. Non condividiamo i tuoi dati biometrici con altre terze parti per scopi di marketing, pubblicità o altro.
+* Per l'analisi: per l'elaborazione di foto e la generazione di report, le immagini vengono temporaneamente trasferite ai server sicuri del nostro fornitore di servizi (DoctGPT Arc53 Ltd). Il processo di analisi è completamente automatizzato e, una volta completato, le foto vengono immediatamente rimosse dai nostri server. Non condividiamo i tuoi dati biometrici con altre terze parti per scopi di marketing, pubblicità o altro.
 * Conformità legale: Possiamo divulgare i tuoi dati solo se richiesto dalla legge o in risposta a una richiesta giudiziaria valida.
 
 7.5. Periodo di conservazione dei dati
