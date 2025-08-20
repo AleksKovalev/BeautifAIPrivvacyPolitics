@@ -20,7 +20,7 @@ Unsere Anwendung verwendet Fotos von Ihrem Gesicht und anderen Hautpartien, um D
 * Wir erstellen keine biometrischen Muster: Wir erstellen oder speichern keine digitalen Muster oder Fingerabdrücke Ihres Gesichts zu Identifikationszwecken.
 
 7.4. Weitergabe von Daten an Dritte
-* Zur Analyse: Um Fotos zu verarbeiten und einen Bericht zu generieren, werden die Bilder vorübergehend an die sicheren Server unseres Serviceanbieters übertragen (DoctGPT Arc53 Ltd). Der Analysevorgang ist vollständig automatisiert und die Fotos werden nach Abschluss sofort von unseren Servern gelöscht. Wir geben Ihre biometrischen Daten nicht zu Marketing-, Werbe- oder sonstigen Zwecken an Dritte weiter.
+* Zur Analyse: Um Fotos zu verarbeiten und einen Bericht zu generieren, werden die Bilder vorübergehend an die sicheren Server unseres Serviceanbieters übertragen (DocsGPT Arc53 Ltd). Der Analysevorgang ist vollständig automatisiert und die Fotos werden nach Abschluss sofort von unseren Servern gelöscht. Wir geben Ihre biometrischen Daten nicht zu Marketing-, Werbe- oder sonstigen Zwecken an Dritte weiter.
 * Rechtliche Konformität: Wir können Ihre Daten nur offenlegen, wenn dies gesetzlich oder als Antwort auf eine gültige gerichtliche Anfrage erforderlich ist.
 
 7.5. Aufbewahrungsdauer für Daten
