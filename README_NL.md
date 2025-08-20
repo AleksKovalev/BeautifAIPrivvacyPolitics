@@ -20,7 +20,7 @@ Om huidconditieanalysediensten te bieden, gebruikt onze app foto ' s van uw gezi
  We maken geen biometrische sjablonen: we maken of slaan geen digitale sjablonen of vingerafdrukken van uw gezicht op voor identificatiedoeleinden.
 
 7.4. Overdracht van gegevens aan derden
-* Voor analyse: om foto ' s te verwerken en een rapport te genereren, worden afbeeldingen tijdelijk overgebracht naar de beveiligde servers van onze serviceprovider (Google Gemini). Het analyseproces is volledig geautomatiseerd en nadat het is voltooid, worden de foto ' s onmiddellijk van onze servers verwijderd. Wij delen uw biometrische gegevens niet met andere derden voor marketing, reclame of andere doeleinden.
+* Voor analyse: om foto ' s te verwerken en een rapport te genereren, worden afbeeldingen tijdelijk overgebracht naar de beveiligde servers van onze serviceprovider (DocsGPT Arc53 Ltd). Het analyseproces is volledig geautomatiseerd en nadat het is voltooid, worden de foto ' s onmiddellijk van onze servers verwijderd. Wij delen uw biometrische gegevens niet met andere derden voor marketing, reclame of andere doeleinden.
 * Wettelijke naleving: we mogen uw gegevens alleen bekendmaken als dit wettelijk vereist is of als antwoord op een geldig gerechtelijk verzoek.
 
 7.5. Bewaartermijn van gegevens
