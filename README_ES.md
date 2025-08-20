@@ -20,7 +20,7 @@ Para proporcionar servicios de análisis de la condición de la piel, nuestra ap
 * No creamos plantillas biométricas: no creamos ni almacenamos plantillas digitales o huellas digitales de su cara con fines de identificación.
 
 7.4. Transferencia de datos a terceros
-* Para el análisis: para el procesamiento de fotos y la generación de informes, las imágenes se transfieren temporalmente a los servidores seguros de nuestro proveedor de servicios (DoctGPT Arc53 Ltd). El proceso de análisis está completamente automatizado y, una vez completado, las fotos se eliminan inmediatamente de nuestros servidores. No compartimos sus datos biométricos con ningún otro tercero para fines de marketing, publicidad u otros fines.
+* Para el análisis: para el procesamiento de fotos y la generación de informes, las imágenes se transfieren temporalmente a los servidores seguros de nuestro proveedor de servicios (DocsGPT Arc53 Ltd). El proceso de análisis está completamente automatizado y, una vez completado, las fotos se eliminan inmediatamente de nuestros servidores. No compartimos sus datos biométricos con ningún otro tercero para fines de marketing, publicidad u otros fines.
 * Cumplimiento legal: solo podemos divulgar sus datos si así lo exige la ley o en respuesta a una solicitud judicial válida.
 
 7.5. Periodo de retención de datos
