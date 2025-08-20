@@ -20,7 +20,7 @@ To provide skin condition analysis services, our app uses photos of your face an
 * We do not create biometric templates: We do not create or store digital templates or fingerprints of your face for identification purposes.
 
 7.4. Transfer of data to third parties
-* For analysis: To process photos and generate a report, images are temporarily transferred to the secure servers of our service provider (Google Gemini). The analysis process is fully automated, and after it is completed, the photos are immediately deleted from our servers. We do not share your biometric data with any other third parties for marketing, advertising or other purposes.
+* For analysis: To process photos and generate a report, images are temporarily transferred to the secure servers of our service provider (DoctGPT Arc53 Ltd). The analysis process is fully automated, and after it is completed, the photos are immediately deleted from our servers. We do not share your biometric data with any other third parties for marketing, advertising or other purposes.
 * Legal compliance: We may disclose your data only if required by law or in response to a valid judicial request.
 
 7.5. Data retention period
