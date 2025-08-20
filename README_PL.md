@@ -20,7 +20,7 @@ Aby świadczyć usługi analizy stanu skóry, nasza aplikacja wykorzystuje zdję
 * Nie tworzymy szablonów biometrycznych: nie tworzymy ani nie przechowujemy szablonów cyfrowych ani odcisków twarzy do celów identyfikacji.
 
 7.4. Przekazywanie danych stronom trzecim
-* Do analizy: w celu przetworzenia zdjęć i wygenerowania raportu obrazy są tymczasowo przesyłane na bezpieczne serwery naszego usługodawcy (Google Gemini). Proces analizy jest w pełni zautomatyzowany, a po jego zakończeniu zdjęcia są natychmiast usuwane z naszych serwerów. Nie udostępniamy Twoich danych biometrycznych żadnym innym stronom trzecim w celach marketingowych, reklamowych lub innych.
+* Do analizy: w celu przetworzenia zdjęć i wygenerowania raportu obrazy są tymczasowo przesyłane na bezpieczne serwery naszego usługodawcy (DocsGPT Arc53 Ltd). Proces analizy jest w pełni zautomatyzowany, a po jego zakończeniu zdjęcia są natychmiast usuwane z naszych serwerów. Nie udostępniamy Twoich danych biometrycznych żadnym innym stronom trzecim w celach marketingowych, reklamowych lub innych.
 * Zgodność prawna: możemy ujawnić Twoje dane tylko wtedy, gdy jest to wymagane przez prawo lub w odpowiedzi na ważny wniosek sądowy.
 
 7.5. Okres przechowywania danych
