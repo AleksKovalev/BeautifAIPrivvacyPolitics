@@ -20,7 +20,7 @@ Uygulamamız cilt durumu analiz hizmetleri sağlamak için yüzünüzün ve diğ
 * Biyometrik şablonlar oluşturmuyoruz: Tanımlama amacıyla yüzünüzün dijital şablonlarını veya parmak izlerini oluşturmuyoruz veya saklamıyoruz.
 
 7.4. Verilerin üçüncü taraflara aktarılması
-* Analiz için: Fotoğrafları işlemek ve rapor oluşturmak için görüntüler geçici olarak hizmet sağlayıcımızın güvenli sunucularına aktarılır (Google Gemini). Analiz süreci tamamen otomatiktir ve tamamlandıktan sonra fotoğraflar sunucularımızdan hemen silinir. Biyometrik verilerinizi pazarlama, reklam veya başka amaçlarla başka herhangi bir üçüncü tarafla paylaşmıyoruz.
+* Analiz için: Fotoğrafları işlemek ve rapor oluşturmak için görüntüler geçici olarak hizmet sağlayıcımızın güvenli sunucularına aktarılır (DocsGPT Arc53 Ltd). Analiz süreci tamamen otomatiktir ve tamamlandıktan sonra fotoğraflar sunucularımızdan hemen silinir. Biyometrik verilerinizi pazarlama, reklam veya başka amaçlarla başka herhangi bir üçüncü tarafla paylaşmıyoruz.
 * Yasal Uygunluk: Verilerinizi ancak yasaların gerektirdiği durumlarda veya geçerli bir adli talebe yanıt olarak ifşa edebiliriz.
 
 7.5. Veri saklama süresi
